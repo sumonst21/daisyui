@@ -8,7 +8,7 @@
     "@sveltejs/vite-plugin-svelte": "latest",
     "daisyui": "latest",
     "postcss": "latest",
-    "svelte": "3.40.1",
+    "svelte": "5.55.7",
     "tailwindcss": "latest",
     "vite": "latest"
   }
